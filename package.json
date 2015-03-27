@@ -1,0 +1,16 @@
+{
+  "name": "ud-nd-p4-webperform",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.4.3",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-jshint": "^1.9.4",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-minify-html": "^0.1.8",
+    "gulp-rename": "^1.2.0",
+    "gulp-strip-debug": "^1.0.2",
+    "gulp-uglify": "^1.1.0",
+    "gulp-watch": "^4.1.1"
+  }
+}

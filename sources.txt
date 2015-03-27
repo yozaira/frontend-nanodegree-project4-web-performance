@@ -1,0 +1,119 @@
+-----------------------------------------------------------------------------
+Tutorials & Articles
+------------------------------------------------------------------------------
+
+25 Techniques for Javascript Performance 
+http://desalasworks.com/article/javascript-performance-techniques/
+
+
+Preventing 'layout thrashing'
+http://wilsonpage.co.uk/preventing-layout-thrashing/
+
+
+browser garbage collection and frame rate
+http://blog.artillery.com/2012/10/browser-garbage-collection-and-framerate.html
+
+
+Minimizing browser reflow
+https://developers.google.com/speed/articles/reflow
+
+
+Jank Busting for Better Rendering Performance
+http://www.html5rocks.com/en/tutorials/speed/rendering/
+
+
+What is Jank?
+http://jankfree.org/
+
+
+How (not) to trigger a layout in WebKit
+http://gent.ilcore.com/2011/03/how-not-to-trigger-layout-in-webkit.html
+
+
+Hurry you only have 16 ms to render everything
+http://www.david-amador.com/2011/08/hurry-you-only-have-16-ms-to-render-everything/
+
+
+Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study
+http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/
+
+
+Scrolling Performance
+http://www.html5rocks.com/en/tutorials/speed/scrolling/
+
+The best way to load external JavaScript
+http://www.nczonline.net/blog/2009/07/28/the-best-way-to-load-external-javascript/
+
+
+DOM DocumentFragments
+http://ejohn.org/blog/dom-documentfragments/
+
+
+10 Javascript Performance Boosting Tips from Nicholas Zakas
+http://jonraasch.com/blog/10-javascript-performance-boosting-tips-from-nicholas-zakas
+
+
+Timing and Performance APIs
+https://msdn.microsoft.com/en-us/library/ie/hh772738(v=vs.85).aspx
+
+
+The Runtime Performance Checklist
+http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/
+
+
+Rendering: repaint, reflow/relayout, restyle
+http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/
+
+
+Critical Rendering Path
+https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
+
+
+----------------------------------------------------------------------------
+Tools
+-----------------------------------------------------------------------------
+
+Gulp JS:
+--------------------------------
+
+Automating The Development, Build, and Deployment Process with Grunt
+http://davidtucker.net/articles/automating-with-grunt/
+
+
+An Introduction to Gulp.js
+http://www.sitepoint.com/introduction-gulp-js/
+
+
+How To: Basic Tasks in Gulp.js
+http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/
+
+
+Automating Image Optimization with Gulp
+http://www.devworkflows.com/posts/adding-image-optimization-to-your-gulp-workflow/
+
+Building With Gulp
+http://www.smashingmagazine.com/2014/06/11/building-with-gulp/
+
+
+Google Chrome DevTools:
+-------------------------------------
+
+Improving Web App Performance With the Chrome DevTools Timeline and Profiles
+http://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/
+
+
+Improve Rendering Performance with Chrome Dev Tools
+http://techportal.inviqa.com/2014/04/09/improve-rendering-performance-with-chrome-dev-tools/
+
+
+Online Base64 Image Encoder/Decoder
+http://www.askapache.com/online-tools/base64-image-converter/
+
+
+
+
+
+
+
+
+
