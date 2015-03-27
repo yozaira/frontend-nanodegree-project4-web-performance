@@ -71,6 +71,7 @@ per second on both mobile and desktop environments.
 
 
 ### Final Result:
+------------------
 
 #### Before Optimization:
 --------------------------
@@ -79,7 +80,7 @@ per second on both mobile and desktop environments.
 
 #### After Optimization:
 --------------------------
-![Page Speed on Desktops](images/p4-wpo1.png)
-![Page Speed on Mobiles](images/p4-wpo2.png)
+![Page Speed on Desktops](images/p4-wop1.png)
+![Page Speed on Mobiles](images/p4-wop2.png)
 
 
