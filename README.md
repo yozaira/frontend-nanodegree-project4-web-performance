@@ -49,7 +49,7 @@ per second on both mobile and desktop environments.
 
 #### 4- Added [.htaccess](https://github.com/h5bp/server-configs-apache/blob/master/dist/.htaccess) file in the root of the website.
 
-  This file contains the necessary configurations to help improve the web site's performance and security.  Two of the most important for performance rules are:
+  This file contains the necessary configurations to help improve the web site's performance and security. Two of the most important for performance rules are:
 
   * Expires and Cache-Control headers for images, static files, CSS, JavaScript, data interchange types,
   media files, web fonts, and others. This helps in serving the page faster because it avoids unnecessary HTTP requests when the user reloads the page the second time.
@@ -72,7 +72,14 @@ per second on both mobile and desktop environments.
 
 ### Final Result:
 
-![Page Speed on Desktops](images/wpo1.png)
-![Page Speed on Mobiles](images/wpo2.png)
+#### Before Optimization:
+--------------------------
+![Page Speed on Desktops](images/p4-sample1.png)
+![Page Speed on Desktops](images/p4-sample2.png)
+
+#### After Optimization:
+--------------------------
+![Page Speed on Desktops](images/p4-wpo1.png)
+![Page Speed on Mobiles](images/p4-wpo2.png)
 
 
