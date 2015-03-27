@@ -47,9 +47,9 @@ per second on both mobile and desktop environments.
   * Used the data URI scheme to embed images as data string in HTML pages with images displayed. This helps web pages load faster as the browser does not have to create a new HTTP request for each individual image file.
 
 
-#### 4- Added an [.htaccess](https://github.com/h5bp/server-configs-apache/blob/master/dist/.htaccess) file in the root of the website.
+#### 4- Added [.htaccess](https://github.com/h5bp/server-configs-apache/blob/master/dist/.htaccess) file in the root of the website.
 
-  This file contains the necessary configurations to help improve the web site's performance and security. Two of the most important for performance are:
+  This file contains the necessary configurations to help improve the web site's performance and security.  Two of the most important for performance rules are:
 
   * Expires and Cache-Control headers for images, static files, CSS, JavaScript, data interchange types,
   media files, web fonts, and others. This helps in serving the page faster because it avoids unnecessary HTTP requests when the user reloads the page the second time.
@@ -72,7 +72,7 @@ per second on both mobile and desktop environments.
 
 ### Final Result:
 
-![Page Speed on Desktops](development-version/images/wpo1.png)
-![Page Speed on Mobiles](development-version/images/wpo2.png)
+![Page Speed on Desktops](images/wpo1.png)
+![Page Speed on Mobiles](images/wpo2.png)
 
 
